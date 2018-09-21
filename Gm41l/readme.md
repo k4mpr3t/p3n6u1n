@@ -12,3 +12,6 @@ email : specific email
 
 image : specific url icon image
 
+## Results ## 
+
+YYYY-MM-DD.txt
